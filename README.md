@@ -150,7 +150,7 @@ my-application$ npm run test
 To delete the sample application that you created, use the AWS CLI. Assuming you used your project name for the stack name, you can run the following:
 
 ```bash
-sam delete --stack-name api-key-usage-demo
+sam delete --stack-name api-key-demo
 ```
 
 ## Resources
